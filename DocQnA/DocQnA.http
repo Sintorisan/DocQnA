@@ -1,0 +1,6 @@
+@DocQnA_HostAddress = http://localhost:5125
+
+GET {{DocQnA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
